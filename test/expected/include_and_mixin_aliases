@@ -1,5 +1,0 @@
-@mixin lol{
-  color: blue;}
-input[type="password"]{
-  @include lol;
-  background: red;}
