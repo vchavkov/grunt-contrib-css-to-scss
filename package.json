@@ -1,0 +1,37 @@
+{
+  "name": "grunt-contrib-css-to-scss",
+  "description": "Grunt plugin to converts css files to scss/sass files",
+  "version": "0.1.0",
+  "homepage": "http://www.chavkov.com/",
+  "author": "Vladimir Chavkov <vchavkov@assistance.bg>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vchavkov/grunt-contrib-css-to-scss"
+  },
+  "bugs": {
+    "url": "https://github.com/vchavkov/grunt-contrib-css-to-scss/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vchavkov/grunt-contrib-css-to-scss/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
